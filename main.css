@@ -11,7 +11,7 @@ body {
   background-color: black;
   color: #b6a3a3;
 }
-.phone-no h4 {
+.phone-no h6 {
   font-size: 15px;
   font-family: "open sans";
   align-self: center;
@@ -64,7 +64,7 @@ body {
 footer {
   background-color: black;
 }
-footer h4 {
+footer h6 {
   font-size: 12px;
   font-family: "open sans";
   font-weight: bold;
@@ -75,7 +75,7 @@ footer h4 {
     background-color: black;
     color: #b6a3a3;
   }
-  .phone-no h4 {
+  .phone-no h6 {
     font-size: 16px;
     font-family: "open sans";
     align-self: center;
@@ -163,15 +163,15 @@ footer h4 {
     font-size: 7px;
   }
 
-  .description {
+  .experience-description {
     background-color: #44a2d8;
   }
-  .description h1 {
+  .experience-description h5 {
     font-size: 1.1rem;
     font-family: "Open Sans";
     font-weight: bold;
   }
-  .description p {
+  .experience-description p {
     font-size: 0.7rem;
   }
 
@@ -179,21 +179,21 @@ footer h4 {
     text-align: center;
   }
 
-  .about-content-button {
+  .lawfirm-about-content-button {
     padding-left: 24px;
     padding-right: 8px !important;
   }
 
-  .about-content {
+  .lawfirm-about-content {
     margin-top: 1.9rem;
   }
-  .about-content h2 {
+  .lawfirm-about-content h2 {
     font-family: "Mukta";
     color: black;
     font-size: 2.6rem;
     font-weight: 600;
   }
-  .about-content p {
+  .lawfirm-about-content p {
     color: black;
     font-family: "Spartan";
     font-size: 0.8rem;
@@ -209,7 +209,7 @@ footer h4 {
     align-self: center;
     margin-bottom: 8px;
   }
-  .media .media-body h1 {
+  .media .media-body h5 {
     font-size: 24px;
     font-family: "Mukta";
     font-weight: 800;
@@ -220,7 +220,7 @@ footer h4 {
     line-height: 1.9;
   }
 
-  .page-footer h4 {
+  .page-footer h6 {
     font-size: 12px;
     font-family: "open sans";
     font-weight: bold;
@@ -252,16 +252,16 @@ footer h4 {
     margin-left: auto;
   }
 
-  .description {
+  .experience-description {
     background-color: #44a2d8;
   }
-  .description h1 {
+  .experience-description h5 {
     font-size: 1.6rem;
     font-family: "Open Sans";
     font-weight: bold;
     margin: 0;
   }
-  .description p {
+  .experience-description p {
     font-size: 0.8rem;
   }
 
@@ -283,21 +283,21 @@ footer h4 {
     text-align: center;
   }
 
-  .about-content-button {
+  .lawfirm-about-content-button {
     padding-right: 0 !important;
     padding-left: 0;
   }
 
-  .about-content {
+  .lawfirm-about-content {
     margin-top: 1.9rem;
   }
-  .about-content h2 {
+  .lawfirm-about-content h2 {
     font-family: "Mukta";
     color: black;
     font-size: 2.6rem;
     font-weight: 800;
   }
-  .about-content p {
+  .lawfirm-about-content p {
     color: black;
     font-family: "Spartan";
     font-size: 1rem;
@@ -315,7 +315,7 @@ footer h4 {
   .media .media-body {
     text-align: center;
   }
-  .media .media-body h1 {
+  .media .media-body h5 {
     font-size: 32px;
     font-family: "Mukta";
     font-weight: 800;
@@ -351,15 +351,15 @@ footer h4 {
     margin-top: 5rem !important;
   }
 
-  .description {
+  .experience-description {
     background-color: #44a2d8;
   }
-  .description h1 {
+  .experience-description h5 {
     font-size: 1.7rem;
     font-family: "Open Sans";
     font-weight: bold;
   }
-  .description p {
+  .experience-description p {
     font-size: 0.8rem;
   }
 
@@ -378,17 +378,17 @@ footer h4 {
     font-size: 12px;
   }
 
-  .about-content {
+  .lawfirm-about-content {
     margin-top: 0;
   }
-  .about-content h2 {
+  .lawfirm-about-content h2 {
     font-family: "Mukta";
     color: black;
     font-size: 2.6rem;
     font-weight: 800;
     margin-bottom: 16px;
   }
-  .about-content p {
+  .lawfirm-about-content p {
     color: black;
     font-family: "Spartan";
     font-size: 0.9rem;
@@ -407,7 +407,7 @@ footer h4 {
   .media .media-body {
     text-align: left;
   }
-  .media .media-body h1 {
+  .media .media-body h5 {
     font-size: 16px;
     font-family: "Mukta";
     font-weight: 800;
@@ -422,7 +422,7 @@ footer h4 {
   .page-footer .container {
     margin-top: 2.5rem !important;
   }
-  .page-footer .container h4 {
+  .page-footer .container h6 {
     font-size: 9px;
     font-family: "open sans";
     font-weight: bold;
@@ -460,16 +460,16 @@ footer h4 {
     font-size: 16px;
   }
 
-  .description {
+  .experience-description {
     background-color: #44a2d8;
   }
-  .description h1 {
+  .experience-description h5 {
     font-size: 2rem;
     margin-bottom: 0.7rem;
     font-family: "Open Sans";
     font-weight: bold;
   }
-  .description p {
+  .experience-description p {
     font-size: 0.9rem;
     line-height: 1.6;
     font-family: "Spartan", sans-serif;
@@ -479,13 +479,13 @@ footer h4 {
     height: 388px;
   }
 
-  .about-content h2 {
+  .lawfirm-about-content h2 {
     font-family: "Mukta";
     color: black;
     font-size: 2.9rem;
     font-weight: 800;
   }
-  .about-content p {
+  .lawfirm-about-content p {
     color: black;
     font-family: "Spartan";
     font-size: 1rem;
@@ -500,7 +500,7 @@ footer h4 {
     align-self: start;
     margin-right: 1rem;
   }
-  .media .media-body h1 {
+  .media .media-body h5 {
     font-size: 24px;
     font-family: "Mukta";
     font-weight: 800;
@@ -517,7 +517,7 @@ footer h4 {
     padding-left: 0;
     padding-right: 0;
   }
-  .page-footer .container h4 {
+  .page-footer .container h6 {
     font-size: 10px;
     font-family: "open sans";
     font-weight: bold;
